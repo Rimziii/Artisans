@@ -1,7 +1,8 @@
 
 import React, { useState } from "react";
-import { Routes, Route, useLocation } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
+import { useLocation } from "react-router-dom";
 import TopNav from "./components/TopNav";
 import Featured from "./components/Featured";
 import Categories from "./components/Categories";

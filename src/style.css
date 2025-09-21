@@ -1,11 +1,11 @@
 :root {
-  --terracotta: #a500d3;
-  --gold: #8d5df4;
-  --beige: #e3eafd;
-  --beige-dark: #f5d6ee;
+  --terracotta: #D36B00;
+  --gold: #F4C95D;
+  --beige: #FDF6E3;
+  --beige-dark: #F5EAD6;
   --charcoal: #333333;
-  --olive: #82238e;
-  --lime: #be8fb7;
+  --olive: #6B8E23;
+  --lime: #A9C47F;
 }
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Lato:wght@400;700&family=Pacifico&display=swap');
 :root {
